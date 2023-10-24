@@ -1,0 +1,14 @@
+.form-container {
+  margin: 0 auto;
+  width: 300px;
+  padding: 20px;
+
+}
+
+.input-field {
+  width: 250px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
